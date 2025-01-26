@@ -16,5 +16,5 @@ Before running the app, make sure to have:
 ## Installation:
 1. Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your_username/weather-app.git
+   git clone https://github.com/krisha011/weather-app.git
   
